@@ -1,7 +1,7 @@
 ## Portfólio - Frontend Developer
 Bem-vindo(a) ao meu portfólio! Sou um Desenvolvedora Frontend apaixonada por criar interfaces atraentes e funcionais. Este portfólio é uma maneira de compartilhar meu trabalho, habilidades e experiência como desenvolvedora.
 
-- Visualizar portifólio: [[clique aqui](https://663a3e95efdc300b90aa9f6c--monumental-cheesecake-3471e5.netlify.app/)]()  
+- Visualizar portifólio: [[clique aqui](https://portifoliolm.netlify.app/)]()  
 
 ### Sobre Mim
 Estou constantemente atualizando minhas habilidades e me mantendo atualizada com as últimas tendências e tecnologias do setor. Adoro trabalhar em equipes colaborativas e enfrentar desafios criativos.
